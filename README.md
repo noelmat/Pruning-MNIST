@@ -1,2 +1,2 @@
 # Pruning-MNIST
-Implementation of pruning in neural networks (MNIST)
+Pytorch implementation of pruning in neural networks with mnist data.  (MNIST)
